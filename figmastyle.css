@@ -1,0 +1,199 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css);
+.header{
+    background-color:#007765;
+    width:100%;
+    height: 84px;
+    display:flex;
+    flex-direction: row;
+}
+.nav{
+    margin: 29px auto 26px 50%;
+   text-align: center;
+    
+}
+.nav a{
+    color:white;
+    text-decoration: none;
+    font-family:'roboto', sans-serif;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 500;
+}
+.logo{
+    width: 184px;
+    height: 45px;
+    padding-top:15px;
+    padding-left: 5%;
+}
+.ishere{
+    background-image: url(img/image.png);
+    background-size: cover;
+    height: 403px;
+    display: flex;
+}
+.pipernet{
+    margin:auto;
+}
+.pipernet h1{
+    color: white;
+    font-family:'roboto', sans-serif;
+    font-size: 72px;
+    font-weight: 500;
+    font-style: normal; 
+    text-align: center;
+}
+.problem{
+    background-color: #EEEEEE;
+    width:100%;
+    height: 719px;
+    margin: 0 auto;
+}
+.parag{
+    width:1110px;
+    height: 488px;
+    margin:0 auto;
+}
+.problem h1{
+    margin: 0 auto;
+    padding-top: 50px;
+    color:#007765;
+    font-family:'roboto', sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+.parag p{
+    color:black;
+    font-family:'roboto', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 38px;
+    padding-top:0;
+    padding-bottom: 0;
+}
+.phrase{
+    background-image: url(img/image-1.png);
+    background-size: cover;
+    height: 483px;
+    display: flex;
+}
+.phrase p{
+    color:white;
+    font-family:'roboto', sans-serif;
+    font-style:italic;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+}
+.Pphrase{
+    width:893px;
+    height: 228px;
+    margin:0 auto;
+    padding-top:70px;
+}
+.intro{
+    width:100%;
+    height: 604px;
+    display: flex;
+}
+.hintro{
+    width:1110px;
+    height: 75px;
+    margin:20px auto 0;
+}
+.hintro h1{
+    color:#007765;
+    font-family:'roboto', sans-serif;
+    font-style:normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+}
+.pintro{
+    width: 1110px;
+    height: 110px;
+    margin: 16px auto 40px;
+}
+.logogo{
+    float: left;
+    margin-right:48px;
+    margin-left: auto;
+}
+.pOne{
+    font-family:'roboto', sans-serif;
+    font-style:normal;
+    font-size: 32px;
+    line-height: 38px;
+    height: 110px;
+    width: 930px;
+}
+.pintro p{
+    font-family:'roboto', sans-serif;
+    font-style:normal;
+    font-size: 32px;
+}
+.table{
+    background-color: #EEEEEE;
+    width:100%;
+    height: 845px;
+    display: flex;
+}
+.team{
+    width:1110px;
+    height: 75px;
+    margin:30px auto 0;
+}
+.team h1{
+    color:#007765;
+    font-family:'roboto', sans-serif;
+    font-style:normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+}
+.tableTeam{
+    width: 100%;
+    height: 490px;
+    margin:56px auto 175px;
+}
+td{
+    text-align:center;
+}
+.name{
+    color:#007765;
+    font-family:'roboto', sans-serif;
+    font-style:normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center; 
+}
+.position{
+    color:black;
+    font-family:'roboto', sans-serif;
+    font-style:italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+.down td{
+    padding-top: 82px;
+}
+.footer{
+    background-color: #333333;
+    height: 176px;
+}
+.foot{
+    width:540px;
+    margin:0 auto;
+    padding-top: 50px;
+    color:white;
+    font-family:'roboto', sans-serif;
+    font-style:normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
